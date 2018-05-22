@@ -1,0 +1,25 @@
+{
+  "name": "ts-koa-node-kit",
+  "version": "1.0.0",
+  "description": "typescrit koa node kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FocusCare/ts-koa-node-kit.git"
+  },
+  "keywords": [
+    "typescript",
+    "ts",
+    "koa",
+    "kit"
+  ],
+  "author": "fc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FocusCare/ts-koa-node-kit/issues"
+  },
+  "homepage": "https://github.com/FocusCare/ts-koa-node-kit#readme"
+}
